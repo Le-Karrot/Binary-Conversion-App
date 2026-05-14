@@ -1,4 +1,4 @@
-# Comp Sci 1 assignment 1 redo
+# MO1-1 Binary Conversion
 
 This is a simple console application for binary and decimal conversion, inside you will find current state of the program and
 at the bottom the assignment version.
